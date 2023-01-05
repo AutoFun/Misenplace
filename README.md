@@ -1,4 +1,5 @@
 # Misenplace
+![image](https://user-images.githubusercontent.com/42330996/210781520-f4625d37-2c2a-46d7-aee6-93c9d234b06a.png)
 
 ##
 Misenplace is a software application that automatically generates prep lists and ordering lists customized for the catering industry. Our product will focus on producing function-specific lists tailored to specific businesses affordably.
