@@ -1,4 +1,4 @@
-# Mise en place- a prep-sheet generation application for chefs&restaurant
+# Mise en place
 ![image](https://user-images.githubusercontent.com/42330996/210781520-f4625d37-2c2a-46d7-aee6-93c9d234b06a.png)
 
 ##
