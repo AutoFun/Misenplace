@@ -15,3 +15,6 @@ Misenplace is a software application that automatically generates prep lists and
 ## MVP demo
 https://user-images.githubusercontent.com/42330996/210229558-d98e88d2-2fc0-4cc4-8b6f-683d45298ab5.mp4
 
+## Copyright
+
+Private project for limited use
